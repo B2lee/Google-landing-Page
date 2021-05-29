@@ -1,0 +1,46 @@
+.menu-icon,
+.user-img,
+.search-icon,
+.voice-search-icon{
+    height: 30px;
+}
+
+.search-box{
+    border-radius:  30px;
+}
+
+.search-bar{
+    outline: none;
+}
+
+#searchBox{
+    border-radius: 55px;
+    padding: 30px;
+    margin-top: -100px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+ 
+}
+
+#GoogleIcon{
+    width: 35px;
+    cursor: pointer;
+}
+
+#micIcon{
+    width: 20px;
+}
+
+input{
+    font-size: 20px;
+    width: 500px;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 30px;
+}
+
+.footer a{
+    color: #7e7e7e;
+}
